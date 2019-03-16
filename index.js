@@ -7,7 +7,8 @@ var arrStrings = [];
 var separatorMain = '';
 var responce = [];
 
-
+console.log("Hello world");
+/*
 var readStream = fs.createReadStream('test.csv', 'utf8');
 
 readStream.on('data', function(chunk) {  
@@ -163,4 +164,4 @@ Transformer.prototype.GetSeparator() = function(){
         }
     });
     this.separatorMain = tempSeparetor;
-}
+}*/
