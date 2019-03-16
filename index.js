@@ -1,4 +1,4 @@
-const fs = require('fs');
+/*const fs = require('fs');
 const util = require('util');
 const separators  = [';', ',', '\t', '|'];
 
@@ -6,7 +6,7 @@ var data = '';
 var arrStrings = [];
 var separatorMain = '';
 var responce = [];
-
+*/
 console.log("Hello world");
 /*
 var readStream = fs.createReadStream('test.csv', 'utf8');
